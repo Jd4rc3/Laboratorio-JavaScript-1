@@ -1,4 +1,4 @@
-import { buttonHandler } from "/js/buttonHandler.js";
+import { buttonHandler } from "../buttonHandler.js";
 import { filmQuestions } from "/questions/film.js";
 import { geographyQuestions } from "/questions/geography.js";
 import { sportsQuestions } from "/questions/sports.js";

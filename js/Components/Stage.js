@@ -1,4 +1,4 @@
-import { createOptionButton } from "/js/Components/Question.js";
+import { createOptionButton } from "./Question.js";
 
 /**
  * This function returns a div element with the class "stage" within a title and a container to hold the questions.
