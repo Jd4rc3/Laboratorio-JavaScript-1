@@ -1,5 +1,5 @@
-import { Question } from "/js/Components/Question.js";
-import { Stage } from "/js/Components/Stage.js";
+import { Question } from "./js/Components/Question.js";
+import { Stage } from "./js/Components/Stage.js";
 
 /**
  *  This function loads the structure of the game set up round, score, ask user for his/her name and start the game.
