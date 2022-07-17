@@ -1,9 +1,9 @@
 import { buttonHandler } from "../buttonHandler.js";
-import { filmQuestions } from "/questions/film.js";
-import { geographyQuestions } from "/questions/geography.js";
-import { sportsQuestions } from "/questions/sports.js";
-import { scienceQuestions } from "/questions/science.js";
-import { videoGamesQuestions } from "/questions/videoGames.js";
+import { filmQuestions } from "../../questions/film.js";
+import { geographyQuestions } from "../../questions/geography.js";
+import { sportsQuestions } from "../../questions/sports.js";
+import { scienceQuestions } from "../../questions/science.js";
+import { videoGamesQuestions } from "../../questions/videoGames.js";
 
 /**
  * This function sets up the question and its options inside the question container.
