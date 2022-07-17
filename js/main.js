@@ -1,4 +1,4 @@
-import { start } from "./js/loadStructure.js";
+import { start } from "../js/loadStructure.js";
 
 start();
 
